@@ -27,11 +27,12 @@ Task-4
 
 Task-5
 
-![image](https://github.com/ElenaLogacheva/Portfolio-JS/assets/113618504/45f34248-5a34-498b-8db1-7c4cd618838a)
-
 Реализуйте класс Validator, у которого будут следующие методы: 
 
+![image](https://github.com/ElenaLogacheva/Portfolio-JS/assets/113618504/45f34248-5a34-498b-8db1-7c4cd618838a)
+
 Пример работы: 
+
 ![image](https://github.com/ElenaLogacheva/Portfolio-JS/assets/113618504/02f28150-d95a-4049-8656-24d1cfb33130)
 
 
